@@ -1,6 +1,6 @@
 ## Enhanced Input For Human Computer Interaction , Touchless Tech , Personal Projects Details without code for public
 
-### Project Achievements
+## Project Achievements
 - Won 1st prize in Jnanasangama - 2024 , A National Level Student Conference 
 - Won 2nd prize in Innovation/humanitarian Technology, Sustainable Development at the I2 CONECCT-2024 (IEEE)
 - Recieved "Project to Product" development certificate
@@ -8,24 +8,24 @@
 - Participated in Srishti project presentation
 - Got 92% unique in ijraset, irjmets, ijfmr, ijert journals (but withdrawn to avoid multiple publications)
 
-### Youtube Videos 
+## Youtube Videos 
 - Youtube Long Video : 
 - Youtube Short Video : 
   
-Authentication Systems: Users to choose between QR code scanning, face recognition, or voice authentication.
+#### Authentication Systems: Users to choose between QR code scanning, face recognition, or voice authentication.
 1) Face Recognition Authentication System
 2) QR Code Authentication System
 3) Voice Authentication System
 
-Input Methods : 
+#### Input Methods : 
 1) By Typing in chat box
 2) By Voice Recognition 
 
-Output Methods : 
+#### Output Methods : 
 1) Shows text messages in chat box & terminal
 2) Speech using text to speech
 
-Voice Command Features: Voice Recognition both offline and online recognition 
+#### Voice Command Features: Voice Recognition both offline and online recognition 
 1) Control Browser: Commands like scroll up/down, take a screenshot, switch/close window, switch tab, reload browser, search Google, find location, open Wikipedia, YouTube, Amazon website.
 2) Control Presentation: Commands to navigate slides (next , previous slides) , present in full screen, and exit full screen.
 3) Control Mouse: Commands like double click, right click, click, copy, paste.
@@ -35,7 +35,7 @@ Voice Command Features: Voice Recognition both offline and online recognition
 7) Deauthentication & authentication : Commands like deactivate , activate , exit , terminate , sleep , bye , wakeup
 8) User Guides for controls by speech and also message in chatbox (when opening Applications and closing Applications and when commands are executed)
 
-Gesture Control Applications:
+#### Gesture Control Applications:
 1) Eye Virtual AI Mouse
 2) Hand Virtual AI Mouse
 3) Advanced Virtual Keyboard
@@ -55,7 +55,7 @@ Gesture Control Applications:
 17) QR Code Scanner
 18) Games Control Features
 
-Offline Games Using Hand Gestures
+#### Offline Games Using Hand Gestures
 1) Rock Paper Scissor 
 2) Offline Ping Pong 
 3) Emoji Grabber Edition 
@@ -67,7 +67,7 @@ Offline Games Using Hand Gestures
 9) Car Steering Controller
 
 
-Online Games Using Hand Gestures
+#### Online Games Using Hand Gestures
 1) Bubble Shooter Game Controller
 2) Temple Run, Subway Surf Game Controller
 3) Car Steering Controller for Browser Online games
@@ -76,20 +76,20 @@ Online Games Using Hand Gestures
 6) Defender Space Game Controller
 7) Dino Game Controller
 
-Online Games Using Face Movements
+#### Online Games Using Face Movements
 1) Temple Run Game, Temple Run 2 Frozen Shadows, Subway Surf Game 
 2) City Car Driving Stunt Master Game Controller
 
-Online Games Using Body / Pose Movements
+#### Online Games Using Body / Pose Movements
 1) Temple Run Game, Temple Run 2 , Frozen Shadows, Subway Surf Game , Snake Game 
 
-AI Trainer Applications:
+#### AI Trainer Applications:
 1) AI Dumbbell Trainer
 2) AI Squats Trainer
 3) AI Pushups Trainer
 4) AI Correct Sitting Standing Posture Trainer
 
-Other Applications:
+#### Other Applications:
 1) Online Game Controller Using eye tracking, blinks, and gaze direction.
 2) GestureTouch – Touch Screen Experience For Normal Computers
 3) Rock Paper Scissor Game 2 Players
@@ -111,9 +111,9 @@ Other Applications:
 19) Ring Point Game
 20) Monitor Watching Time
 21) Keyboard Numbers on Browser
-
-
-The total number of features/applications in my project is 86 + 21 => 107 features/applications
+22) Truth Sayer & BPM Analyser 
+    
+## The total number of features/applications in my project is 86 + 22 => 108 features/applications
 1) Authentication Systems: 3 features
 2) Input Methods: 2 features
 3) Output Methods: 2 features
@@ -124,8 +124,20 @@ The total number of features/applications in my project is 86 + 21 => 107 featur
 8) Online Games Using Face Movements: 2 Applications
 9) Online Games Using Body / Pose Movements: 1 Applications
 10) AI Trainer Features: 4 Applications
-11) Other Applications: 21 Applications
+11) Other Applications: 22 Applications
 
-Can try some applications at : 
+### Can try some applications at : 
 Dance , GYM , Yoga AI trainer & Comparer : https://motion-mate.vercel.app/
 Other Small AI Project (from others) : https://vcet.puter.site/
+
+#### Future Developments 
+- Patient Safety Monitoring System
+- Classroom monitoring
+- Robot-Following Human
+- Robot hand to mimic human action
+- Cricket Umpair decisions 
+- Car Parking Space Counter
+- Argumented Reality Gaming 
+- Measurement of Noise Level
+- Fighting games
+- Medical for the surgery & 3d visualization
