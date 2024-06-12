@@ -1,4 +1,4 @@
-## Enhanced Input For Human Computer Interaction , Touchless Tech ,Personal Projects Details without code for public
+## Enhanced Input For Human Computer Interaction , Touchless Tech , Personal Projects Details without code for public
 
 ### Project Achievements
 - Won 1st prize in Jnanasangama - 2024 , A National Level Student Conference 
