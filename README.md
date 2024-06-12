@@ -106,12 +106,12 @@ The total number of features/applications in my project is 86 + 21 => 107 featur
 1) Authentication Systems: 3 features
 2) Input Methods: 2 features
 3) Output Methods: 2 features
-4) Voice Command Features: 8 features
-5) Gesture Control Features: 18 features
-6) Offline Games Using Hand Gestures: 9 features
-7) Online Games Using Hand Gestures: 7 features
-8) Online Games Using Face Movements: 2 features
-9) Online Games Using Body / Pose Movements: 1 feature
-10) AI Trainer Features: 4 features
-11) Other Features: 21 feature
+4) Voice Command Features: 8 Applications
+5) Gesture Control Features: 18 Applications
+6) Offline Games Using Hand Gestures: 9 Applications
+7) Online Games Using Hand Gestures: 7 Applications
+8) Online Games Using Face Movements: 2 Applications
+9) Online Games Using Body / Pose Movements: 1 Applications
+10) AI Trainer Features: 4 Applications
+11) Other Applications: 21 Applications
 
