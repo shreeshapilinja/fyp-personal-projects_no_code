@@ -1,6 +1,13 @@
-# fyp-personal-projects_no_code
-### Enhanced Input For Human Computer Interaction , Touchless Tech ,Personal Projects Details without code for public
+## Enhanced Input For Human Computer Interaction , Touchless Tech ,Personal Projects Details without code for public
 
+### Project Achievements
+- Won 1st prize in Jnanasangama - 2024 , A National Level Student Conference 
+- Won 2nd prize in Innovation/humanitarian Technology, Sustainable Development at the I2 CONECCT-2024 (IEEE)
+- Recieved "Project to Product" development certificate
+- Published Research Journal in International Journal Of Creative Research Thoughts (ijcrt)
+- Participated in Srishti project presentation
+- Got 92% unique in ijraset, irjmets, ijfmr, ijert journals (but withdrawn to avoid multiple publications)
+  
 Authentication Systems: Users to choose between QR code scanning, face recognition, or voice authentication.
 1) Face Recognition Authentication System
 2) QR Code Authentication System
