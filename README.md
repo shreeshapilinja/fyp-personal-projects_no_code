@@ -112,7 +112,7 @@
 19) Ring Point Game
 20) Monitor Watching Time
 21) Keyboard Numbers on Browser
-22) Truth Sayer & BPM Analyser 
+22) Truth & BPM Analyser 
     
 ## The total number of features/applications in my project is 86 + 22 => 108 features/applications
 1) Authentication Systems: 3 features
