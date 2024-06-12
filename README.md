@@ -9,8 +9,8 @@
 - Got 92% unique in ijraset, irjmets, ijfmr, ijert journals (but withdrawn to avoid multiple publications)
 
 ### Youtube Videos 
-Youtube Long Video : 
-Youtube Short Video : 
+- Youtube Long Video : 
+- Youtube Short Video : 
   
 Authentication Systems: Users to choose between QR code scanning, face recognition, or voice authentication.
 1) Face Recognition Authentication System
@@ -81,7 +81,7 @@ Online Games Using Face Movements
 2) City Car Driving Stunt Master Game Controller
 
 Online Games Using Body / Pose Movements
-1) Temple Run Game, Temple Run 2 Frozen Shadows, Subway Surf Game , Snake Game 
+1) Temple Run Game, Temple Run 2 , Frozen Shadows, Subway Surf Game , Snake Game 
 
 AI Trainer Applications:
 1) AI Dumbbell Trainer
