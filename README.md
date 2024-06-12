@@ -7,6 +7,10 @@
 - Published Research Journal in International Journal Of Creative Research Thoughts (ijcrt)
 - Participated in Srishti project presentation
 - Got 92% unique in ijraset, irjmets, ijfmr, ijert journals (but withdrawn to avoid multiple publications)
+
+### Youtube Videos 
+Youtube Long Video : 
+Youtube Short Video : 
   
 Authentication Systems: Users to choose between QR code scanning, face recognition, or voice authentication.
 1) Face Recognition Authentication System
@@ -122,3 +126,6 @@ The total number of features/applications in my project is 86 + 21 => 107 featur
 10) AI Trainer Features: 4 Applications
 11) Other Applications: 21 Applications
 
+Can try some applications at : 
+Dance , GYM , Yoga AI trainer & Comparer : https://motion-mate.vercel.app/
+Other Small AI Project (from others) : https://vcet.puter.site/
