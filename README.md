@@ -127,8 +127,8 @@
 11) Other Applications: 22 Applications
 
 ### Can try some applications at : 
-Dance , GYM , Yoga AI trainer & Comparer : https://motion-mate.vercel.app/
-Other Small AI Project (from others) : https://vcet.puter.site/
+- Dance , GYM , Yoga AI trainer & Comparer : https://motion-mate.vercel.app/
+- Other Small AI Project (from others) : https://vcet.puter.site/
 
 #### Future Developments 
 - Patient Safety Monitoring System
