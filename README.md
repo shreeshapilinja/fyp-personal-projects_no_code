@@ -9,10 +9,10 @@
 - Got 92% unique in ijraset, irjmets, ijfmr, ijert journals (but withdrawn to avoid multiple publications)
 
 ## Youtube Videos 
-- Video : https://www.youtube.com/watch?v=uh4GFXjdpKo
+- Video : https://www.youtube.com/watch?v=m-mKmO1NAgY
 - College Youtube Uploaded Video : https://www.youtube.com/watch?v=kKQMpCxY-V0
 - Youtube Long Video With Song : https://www.youtube.com/watch?v=s2DbnYusH9s  or https://youtu.be/s2DbnYusH9s 
-- Youtube Short Video : https://www.youtube.com/watch?v=m-mKmO1NAgY
+- Youtube Short Video : https://www.youtube.com/watch?v=uh4GFXjdpKo 
  
 #### Authentication Systems: Users to choose between QR code scanning, face recognition, or voice authentication.
 1) Face Recognition Authentication System
